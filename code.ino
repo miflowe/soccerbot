@@ -31,7 +31,7 @@ else if(t == 'B'){      //move reverse (all  motors rotate in reverse direction)
   digitalWrite(6,HIGH); // If the right motor is spinning opposite direction shuffle the HIGH and LOW
   digitalWrite(7,LOW);
 }
-  
+
 else if(t == 'L'){      //turn right (left side motors rotate in forward direction,  right side motors doesn't rotate)
   digitalWrite(4,LOW); 
   digitalWrite(5,LOW);
