@@ -6,6 +6,8 @@ Version notes:
 - Version 3 had several non-manifold geometry issues
 - Version 4 was more polished however still had geometry issues
 - Version 7 fixes all geometry issues, is to scale for 3d printing, and includes a full model of the arduino smart car chassis that was converted from a .stp file to .stl through fusion.
+- Version 10 changes the method of attachment to the chassis and various sizing issues with the real life model
+- Version 11 is the final model to be 3d printed
 
 Version 7 estimations:
 <img width="1225" height="1282" alt="image" src="https://github.com/user-attachments/assets/dd64ebc6-a4b9-4924-a4d4-5c138897f39e" />
