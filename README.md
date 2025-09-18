@@ -7,11 +7,11 @@ He may be small, but he’s packed with **engineering magic** including:
 - motors
 - clever algorithms that make him move with personality.
 
-We built Wilbert as part of [Innovation Boost Zone's Premier League Soccerbot]([url](https://www.innovationboostzone.com/ibz-premier-league)) Competition and he’s been stealing the show ever since!
+We built Wilbert as part of [Innovation Boost Zone's Premier League Soccerbot](https://www.innovationboostzone.com/ibz-premier-league) Competition and he’s been stealing the show ever since!
 
 ## 🌟 Featured In
 We’re proud to share that Wilbert has been featured in the press! 🎉  
-Check out the article here: [Read the full story]([url](https://www.torontomu.ca/news-events/news/2025/09/soccer-bots-take-the-field/))
+Check out the article here: [Read the full story](https://www.torontomu.ca/news-events/news/2025/09/soccer-bots-take-the-field/)
 
 ## 🚀 What Wilbert Can Do
 - 🏃 Dribbles and maneuvers across the field
