@@ -1,7 +1,12 @@
 # ⚽🤖 Meet Wilbert – The Soccerbot!
 
-Wilbert is our team’s beloved **soccer-playing robot** — designed, built, and coded to dribble, pass, and score goals just like the pros!  
-He may be small, but he’s packed with **engineering magic**: sensors, motors, and clever algorithms that make him move with personality.  
+Wilbert is our team’s beloved **soccer-playing robot**! 
+He was designed, built, and coded to dribble, pass, and score goals just like the pros!  
+He may be small, but he’s packed with **engineering magic** including: 
+- sensors
+- motors
+- clever algorithms that make him move with personality.
+
 We built Wilbert as part of [Innovation Boost Zone's Premier League Soccerbot]([url](https://www.innovationboostzone.com/ibz-premier-league)) Competition and he’s been stealing the show ever since!
 
 ## 🌟 Featured In
