@@ -26,4 +26,4 @@ Check out the article here: [Read the full story](https://www.torontomu.ca/news-
 ## 💞 see our team members below 
 Mina @miflowe
 Muneebah @muneebzaz
-Fatema  @bweeble
+Fatema @bweeble 
