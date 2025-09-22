@@ -3,6 +3,7 @@
 Wilbert is our team’s beloved **soccer-playing robot**! 
 He was designed, built, and coded to dribble, pass, and score goals just like the pros!  
 He may be small, but he’s packed with **engineering magic** including: 
+- an arduino nano
 - sensors
 - motors
 - clever algorithms that make him move with personality.
@@ -21,3 +22,8 @@ Check out the article here: [Read the full story](https://www.torontomu.ca/news-
 
 ## 🎥 Watch Him in Action
 ![soccerbotvid-2](https://github.com/user-attachments/assets/2f039826-3682-4ab8-883f-40af63fe41d2)
+
+## 💞 see our team members below 
+Mina @miflowe
+Muneebah @muneebzaz
+Fatema  @bweeble
